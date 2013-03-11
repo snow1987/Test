@@ -1,3 +1,3 @@
 var a = 5;
-a = a + 2;
+a = a + 5;
 console.log(a);
